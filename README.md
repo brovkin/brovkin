@@ -1,6 +1,6 @@
 ### Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-👨‍💻 Detail-oriented Front-End Developer with 4+ years of experience working with HTML, CSS, JS (ES6-ES7), React, Redux, Typescript and Node.js/Express. Highly adept at both independent and collaborative projects, with an emphasis on React SPA, landing pages and work at the junction of front-end and back-end applications.
+👨‍💻 Detail-oriented Front-End Developer with 5+ years of experience working with HTML, CSS, JS (ES6-ES7), React, Redux, Typescript and Node.js/Express. Highly adept at both independent and collaborative projects, with an emphasis on React SPA, landing pages and work at the junction of front-end and back-end applications.
 
 ### 🛠️ Skills
 
